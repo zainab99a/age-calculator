@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+div
+{
+    padding: 20px;
+    background-color: cornflowerblue;
+    width: fit-content;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+label{
+margin-top: 20px;
+}
+label,h1{
+    color: white;
+}
+input{
+    margin: 10px;
+    height: 30px;
+    width: 110px;
+    border-radius: 10px;
+    border-style: none;
+    padding: 5px;
+    
+}
+button{
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    border-style: none;
+    background-color: white;
+    color:  cornflowerblue;
+}
+button:hover{
+
+    border: 1px solid white;
+    background-color: cornflowerblue;
+    color: white;
+
+}
