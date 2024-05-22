@@ -1,2 +1,2 @@
-## AGE CALCULATOR
+# AGE CALCULATOR
 pure HTML,CSS and js
